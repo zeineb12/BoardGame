@@ -1,8 +1,8 @@
 # BoardGame
 
-The Processing sketch named Game.pde displays a 3D ?board? at the center of the screen, with a ball (3D sphere) on it:
+The Processing sketch named Game.pde displays a 3D board at the center of the screen, with a ball (3D sphere) on it:
 
-- Mouse drag tilts a board around the X and Z axes.
+- Mouse drag tilts the board around the X and Z axes.
 
 - Mouse wheel increases/decreases the tilt motion speed.
 
