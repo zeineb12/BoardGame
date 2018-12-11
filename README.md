@@ -13,6 +13,9 @@ The Processing sketch named Game.pde displays a 3D board at the center of the sc
 
 - By pressing the Shift key, a top view of the board is displayed (object placement mode). In this mode, a click on the board surface adds a new cylinder at click?s location.
 
+![capture d ecran 2018-12-11 a 14 21 48](https://user-images.githubusercontent.com/25967616/49803982-b6737b80-fd51-11e8-9e16-1641c71fd5e5.png)
+
+
 - These cylinders remain on the board when the Shift key is released, and move with the board when it is tilted with the mouse.
 
 - The ball collides with the cylinders and board?s edges. The correct collision distance is computed.
