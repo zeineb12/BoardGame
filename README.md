@@ -21,3 +21,5 @@ The Processing sketch named Game.pde displays a 3D board at the center of the sc
 - The ball collides with the cylinders and board?s edges. The correct collision distance is computed.
 
 - When colliding with a cylinder or hitting the edges of the board, the ball makes a realistic bounce.
+
+![capture d ecran 2018-12-11 a 14 22 45](https://user-images.githubusercontent.com/25967616/49804044-de62df00-fd51-11e8-8251-d93fb5327283.png)
