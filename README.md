@@ -2,6 +2,9 @@
 
 The Processing sketch named Game.pde displays a 3D board at the center of the screen, with a ball (3D sphere) on it:
 
+![capture d ecran 2018-12-11 a 14 21 14](https://user-images.githubusercontent.com/25967616/49803906-80ce9280-fd51-11e8-844f-0719497534dc.png)
+
+
 - Mouse drag tilts the board around the X and Z axes.
 
 - Mouse wheel increases/decreases the tilt motion speed.
